@@ -1,0 +1,16 @@
+{
+  "name": "testcafe-reporter-custom-issue",
+  "version": "1.0.0",
+  "description": " Reproduce the testcafe-reporter-custom-issue issue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests --reporter custom"
+  },
+  "author": "Trevor Karjanis",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "testcafe": "^1.18.1",
+    "testcafe-reporter-custom": "^1.1.1"
+  }
+}

@@ -1,3 +1,5 @@
 # testcafe-reporter-custom Issue
 
- Reproduce the testcafe-reporter-custom-issue issue.
+Reproduce the testcafe-reporter-custom-issue issue.
+
+Run `npm test`.
